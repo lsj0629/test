@@ -1,1 +1,1 @@
-print("other code")
+print("other code~!!!!!")
